@@ -4,7 +4,6 @@
 
 - **Explain** what SEO is and why it's used
 - **List** a handful of basic steps to take to improve SEO
-- **
 
 ## Framing: What is SEO?
 * Search Engine Optimization. 
@@ -57,8 +56,8 @@ One of the founding tools Google used to rank sites (why it eventually became a 
 * Yoast is the most popular WordPress plugin
 
 ## Resources
-* [Square Space's Docs] (https://support.squarespace.com/hc/en-us/articles/206744067) 
-* [Yoast for Wordpress] (https://wordpress.org/plugins/wordpress-seo/)
+* [Square Space's Docs](https://support.squarespace.com/hc/en-us/articles/206744067) 
+* [Yoast for Wordpress](https://wordpress.org/plugins/wordpress-seo/)
 * [Search Console](https://support.google.com/webmasters/answer/6258314?hl=en&ref_topic=3309469)
 * [Analytics](https://www.google.com/analytics/analytics/#?modal_active=none)
 * [Mobile-friendly test](https://search.google.com/test/mobile-friendly)
