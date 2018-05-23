@@ -26,6 +26,7 @@ One of the founding tools Google used to rank sites (why it eventually became a 
 ### This outline is inspired by [Googles docs](https://support.google.com/webmasters/answer/7451184)
 1. Tell Google to index your site
 2. Upload Sitemap
+2a. You can try modules like `express-sitemap` to generate a sitemap.xml for your express app
 3. Add a unique `<title>` to the `<head>` of each page
 4. Add a unique description `<meta>` tag to the head of each page
 5. Understand the [Anatomy of a Search Snippet](https://www.youtube.com/watch?v=MOfhHPp5sWs)
@@ -33,6 +34,15 @@ One of the founding tools Google used to rank sites (why it eventually became a 
 7. Use important words in your domain and URL paths [example](https://www.google.com/search?ei=Kq0FW8iqCsLpzgLDg62YDg&q=black+shirt+brewing&oq=black+&gs_l=psy-ab.3.0.35i39k1j0i67k1l3j0i20i264k1j0i67k1j0l2j0i67k1j0i131k1.21026.21852.0.22632.6.6.0.0.0.0.142.693.0j6.6.0....0...1.1.64.psy-ab..0.6.692....0.Sq0G5Cv7n_g)
 8. Make navigation very clear, like using breadcrumbs
 9. Optimize your images, like using the `alt` tag
-10. Make your site mobile-friendly
-11. Promote your website, like registering your business with google or getting on yelp
-12. Use google analytics
+10. Use `rel=canonical` for similar URLs. [Read More] (https://support.google.com/webmasters/answer/139066?hl=en)
+11. Make your site mobile-friendly
+12. Promote your website, like registering your business with google or getting on yelp
+13. Use google analytics
+
+## Other Notes
+* WYSIWYG tools usually have tools that do a lot of these steps for you
+* Square Space has SEO tools built in
+* Yoast is the most popular WordPress plugin
+
+## Resources
+* [Square Space's Docs] (https://support.squarespace.com/hc/en-us/articles/206744067) 
