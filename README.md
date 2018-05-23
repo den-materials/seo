@@ -12,7 +12,14 @@
 * Showing relevant data in the search results
 
 ## Basic Steps
-### Use [Google's documentation](https://developers.google.com/webmasters/googleforwebmasters/) as your main resource
+### Use [Google's documentation](https://developers.google.com/webmasters/googleforwebmasters/) as your main resource.
+How Google crawls and indexes your site is constantly changing, and there are TONS of tools that they provide that you should look into, like:
+* [Search Console](https://support.google.com/webmasters/answer/6258314?hl=en&ref_topic=3309469)
+* [Analytics](https://www.google.com/analytics/analytics/#?modal_active=none)
+* [Mobile-friendly test](https://search.google.com/test/mobile-friendly)
+* [Google Trends](https://trends.google.com/trends/)
+
+
 ### This outline is inspired by [Googles docs](https://support.google.com/webmasters/answer/7451184)
 1. Tell Google to index your site
 2. Upload Sitemap
