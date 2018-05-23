@@ -19,6 +19,9 @@ How Google crawls and indexes your site is constantly changing, and there are TO
 * [Mobile-friendly test](https://search.google.com/test/mobile-friendly)
 * [Google Trends](https://trends.google.com/trends/)
 
+## PageRank
+One of the founding tools Google used to rank sites (why it eventually became a verb) is called PageRank. It's their patented algorithm, and you can [read all about it](https://en.wikipedia.org/wiki/PageRank). It's based on _how many other sites link to yours_.
+
 
 ### This outline is inspired by [Googles docs](https://support.google.com/webmasters/answer/7451184)
 1. Tell Google to index your site
