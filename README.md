@@ -11,6 +11,9 @@
 * Getting your site to show up first in Google
 * Showing relevant data in the search results
 
+## Undeniable Leader
+[Look](https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/)
+
 ## Basic Steps
 ### Use [Google's documentation](https://developers.google.com/webmasters/googleforwebmasters/) as your main resource.
 How Google crawls and indexes your site is constantly changing, and there are TONS of tools that they provide that you should look into, like:
@@ -18,6 +21,7 @@ How Google crawls and indexes your site is constantly changing, and there are TO
 * [Analytics](https://www.google.com/analytics/analytics/#?modal_active=none)
 * [Mobile-friendly test](https://search.google.com/test/mobile-friendly)
 * [Google Trends](https://trends.google.com/trends/)
+* [Keyword Planner](https://adwords.google.com/home/tools/keyword-planner/#?modal_active=none)
 
 ## PageRank
 One of the founding tools Google used to rank sites (why it eventually became a verb) is called PageRank. It's their patented algorithm, and you can [read all about it](https://en.wikipedia.org/wiki/PageRank). It's based on _how many other sites link to yours_.
@@ -39,6 +43,14 @@ One of the founding tools Google used to rank sites (why it eventually became a 
 12. Promote your website, like registering your business with google or getting on yelp
 13. Use google analytics
 
+## HTML Notes
+* Proper HTML boilerplate structure -> Easily crawlable by Google
+* Structure content with headings
+* Use semantic HTML (like `nav`, `body`, `article`, `section`, etc)
+* add `alt` tags to images
+* Google hits you for shitty CSS
+* Google detects when you put a shit ton of hidden `h1` tags filled with all your keywords and dings you for it
+
 ## Other Notes
 * WYSIWYG tools usually have tools that do a lot of these steps for you
 * Square Space has SEO tools built in
@@ -46,3 +58,9 @@ One of the founding tools Google used to rank sites (why it eventually became a 
 
 ## Resources
 * [Square Space's Docs] (https://support.squarespace.com/hc/en-us/articles/206744067) 
+* [Yoast for Wordpress] (https://wordpress.org/plugins/wordpress-seo/)
+* [Search Console](https://support.google.com/webmasters/answer/6258314?hl=en&ref_topic=3309469)
+* [Analytics](https://www.google.com/analytics/analytics/#?modal_active=none)
+* [Mobile-friendly test](https://search.google.com/test/mobile-friendly)
+* [Google Trends](https://trends.google.com/trends/)
+* [Keyword Planner](https://adwords.google.com/home/tools/keyword-planner/#?modal_active=none)
